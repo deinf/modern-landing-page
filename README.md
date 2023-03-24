@@ -7,7 +7,7 @@ This is React project from [Javascript Mastery](https://www.youtube.com/watch?v=
 Made with [React Js](https://react.dev/) and [Tailwind](https://tailwindcss.com/)
 
 
-## [Live Demo](https://nodesource.com/products/nsolid)
+## [Live Demo](https://modern-landing-page-coral.vercel.app/)
 
 ## Running
 
